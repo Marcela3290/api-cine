@@ -1,0 +1,57 @@
+[
+    {
+        "nombre": "Brad Pitt",
+        "edad": 58,
+        "imagen": "./img3/brad pitt.jpg",
+        "bio": "William Bradley Pitt es un actor y productor estadounidense. Ganador de dos premios Globo de Oro y un premio Óscar como productor en la categoría de Mejor película por 12 años de esclavitud."
+    },
+    {
+        "nombre": "Meryl Streep",
+        "edad": 72,
+        "imagen": "./img3/meryl streep.jpg",
+        "bio": "Mary Louise Streep es una actriz y cantante estadounidense. Conocida por su versatilidad interpretativa, ha sido galardonada en numerosas ocasiones, incluyendo tres premios Óscar, dos premios BAFTA y ocho Globos de Oro."
+    },
+    {
+        "nombre": "Tom Hanks",
+        "edad": 65,
+        "imagen": "./img3/tom hanks.jpg",
+        "bio": "Thomas Jeffrey Hanks es un actor, productor, guionista y director estadounidense. Ganador de dos premios Óscar, cuatro Globos de Oro, un premio Emmy y un premio Tony."
+    },
+    {
+        "nombre": "Angelina Jolie",
+        "edad": 46,
+        "imagen": "./img3/angelina jolie.jpg",
+        "bio": "Angelina Jolie es una actriz, modelo, productora y directora estadounidense. Ganadora de un premio Óscar, tres premios Globo de Oro y dos premios del Sindicato de Actores."
+    },
+    {
+        "nombre": "Leonardo DiCaprio",
+        "edad": 47,
+        "imagen": "./img3/leonardo dicaprio.jpg",
+        "bio": "Leonardo Wilhelm DiCaprio es un actor, productor y activista medioambiental estadounidense. Ganador de un premio Óscar, un premio BAFTA, tres Globos de Oro y un premio del Sindicato de Actores."
+    },
+    {
+        "nombre": "Cate Blanchett",
+        "edad": 52,
+        "imagen": "./img3/blanchett.jpg",
+        "bio": "Catherine Elise Blanchett es una actriz y directora de teatro australiana. Ganadora de dos premios Óscar, tres premios BAFTA, tres premios Globo de Oro y tres premios del Sindicato de Actores."
+    },
+    {
+        "nombre": "Johnny Depp",
+        "edad": 58,
+        "imagen": "./img3/johnny depp.jpg",
+        "bio": "John Christopher Depp II es un actor, productor y músico estadounidense. Conocido por su versatilidad interpretativa, ha sido galardonado con un premio Globo de Oro y ha sido nominado a tres premios Óscar."
+    },
+    {
+        "nombre": "Emma Stone",
+        "edad": 33,
+        "imagen": "./img3/emma stone.jpg",
+        "bio": "Emily Jean Stone es una actriz estadounidense. Ganadora de un premio Óscar, un premio BAFTA y un premio Globo de Oro por su interpretación en La La Land."
+    },
+    
+    {
+        "nombre": "Julia Roberts",
+        "edad": 54,
+        "imagen": "./img3/julia roberts.jpg",
+        "bio": "Julia Fiona Roberts es una actriz y productora estadounidense. Ganadora de un premio Óscar, tres premios Globo de Oro, un premio BAFTA y un premio del Sindicato de Actores."
+    }
+]
